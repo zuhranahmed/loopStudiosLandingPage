@@ -23,6 +23,7 @@ body {
   color: black;
   line-height: 1.5;
   position: relative;
+  overflow: auto;
 }
 
 ul {
